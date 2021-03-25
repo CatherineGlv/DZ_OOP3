@@ -1,0 +1,20 @@
+﻿  DZ_OOP_3.cpp
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(93,1): error C2059: синтаксическая ошибка: }
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(93,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(97,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(97,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(106,1): error C2504: Car: не определен базовый класс
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(109,40): error C2614: PassengerCar: недопустимая инициализация члена: "Car" не является базовым классом или членом
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(113,47): error C2065: company: необъявленный идентификатор
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(113,78): error C2065: model: необъявленный идентификатор
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(118,1): error C2504: Car: не определен базовый класс
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(121,31): error C2614: Bus: недопустимая инициализация члена: "Car" не является базовым классом или членом
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(125,38): error C2065: company: необъявленный идентификатор
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(125,69): error C2065: model: необъявленный идентификатор
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(133,45): error C2512: PassengerCar: нет подходящего конструктора по умолчанию
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(105,7): message : см. объявление "PassengerCar"
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(133,45): error C2512: Bus: нет подходящего конструктора по умолчанию
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(117,7): message : см. объявление "Bus"
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(133,35): error C2614: Minivan: недопустимая инициализация члена: "Car" не является базовым классом или членом
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(137,42): error C2065: company: необъявленный идентификатор
+D:\DZ\DZ_OOP_3\DZ_OOP_3\DZ_OOP_3.cpp(137,73): error C2065: model: необъявленный идентификатор
